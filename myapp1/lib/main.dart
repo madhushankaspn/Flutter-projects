@@ -81,7 +81,7 @@ class ProfileScreen extends StatelessWidget {
             /// Name
             const Text("Name", style: TextStyle(fontWeight: FontWeight.bold)),
             const SizedBox(height: 5),
-            const Text("Supun"),
+            const Text("Supun Madhusanka"),
 
             const SizedBox(height: 20),
 
